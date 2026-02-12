@@ -1,4 +1,3 @@
-```markdown
 # ⚔️ Phase 1 — Jailbreak Prompt Challenge  
 ### Secure AI Hackathon | Team Marcus 🧠
 
