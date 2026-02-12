@@ -71,4 +71,3 @@ Below is the official placement of **Team Marcus** at the end of Phase 1:
 ---
 
 **Team Marcus ⚔️ — Testing Limits to Build Safer AI**
-```
