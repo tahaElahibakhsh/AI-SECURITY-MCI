@@ -128,7 +128,7 @@ Among the strongest AI security teams in the country 🇮🇷
 
 This agent will soon undergo **advanced fine-tuning at the highest level** using specialized datasets and adversarial samples.
 
-هدف ما 👇
+our target 👇
 
 > 🔐 Build one of the strongest agents against **Jailbreak attacks**
 
