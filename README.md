@@ -97,7 +97,7 @@ Among the strongest AI security teams in the country 🇮🇷
 
 *(Personal certificate of final stage participation)*
 
-![Final Certificate](certificate.jpg)
+  ![Final Certificate](MCI-LLM%20Security.jpg)
 
 ---
 
