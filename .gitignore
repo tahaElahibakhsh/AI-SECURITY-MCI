@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# part 1, 2 of contest(where we inject): these shit are frightening and im scared of FBI
+part1
+part2
+
 # C extensions
 *.so
 
